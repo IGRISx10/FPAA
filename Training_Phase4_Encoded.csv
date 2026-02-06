@@ -1,0 +1,740 @@
+AGE,INJURY_TYPE,POSITION_Attacking Midfield,POSITION_Central Midfield,POSITION_Centre-Back,POSITION_Centre-Forward,POSITION_Defensive Midfield,POSITION_Goalkeeper,POSITION_Left Back,POSITION_Left Winger,POSITION_Right Back,POSITION_Right Winger,SEASON_Autumn,SEASON_Spring,SEASON_Summer,SEASON_Winter
+26,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+27,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+20,Other,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+22,Achilles Injury,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+20,Shoulder injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+27,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+25,Back injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+32,Back injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+26,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+23,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+23,Ankle Injury,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+19,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+20,Foot Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+26,Ankle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+21,Other,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+23,Foot Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+21,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+23,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+18,Back injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+23,Achilles Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+27,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+31,Achilles Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+25,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+21,Foot Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+27,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+23,Other,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+28,Ankle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+28,Shoulder injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+34,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+20,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+32,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Foot Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+22,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+19,Thigh Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+27,Achilles Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Other,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+17,Illness,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+30,Other,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Groin Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Groin Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+25,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Thigh Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+22,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+23,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+25,Calf Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+22,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+22,Hamstring Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+31,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+23,Ankle Injury,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+29,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+30,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+27,Illness,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+24,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+19,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+24,Back injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+22,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+25,Other,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+22,Groin Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+21,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+27,Minor injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+28,Fitness issues,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+32,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Thigh Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+26,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+22,Long-term injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+23,Muscle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+25,Minor injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+29,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+24,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Minor injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+23,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+26,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+26,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+22,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+25,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Illness,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+21,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+22,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+20,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+23,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+23,Achilles Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Hip injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Thigh Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+21,Thigh Injury,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+23,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+34,Ankle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+21,Groin Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+22,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+20,Foot Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+22,Foot Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+20,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+32,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+33,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+18,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+25,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+22,Other,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+31,Hamstring Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+23,Long-term injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+32,Hamstring Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Illness,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+29,Muscle Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+29,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+31,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+29,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+28,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+28,Shoulder injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+31,Back injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Groin Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+29,Groin Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Foot Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Back injury,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+25,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+32,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Fitness issues,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+32,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Fitness issues,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+31,Calf Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+26,Fitness issues,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,Calf Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+19,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+34,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+23,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+27,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+22,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+30,Groin Injury,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+26,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+33,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Back injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+33,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+22,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+20,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+26,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+23,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+28,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+30,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+25,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+25,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+27,Other,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+28,Achilles Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+17,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+32,Other,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+32,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+32,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+26,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+32,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+32,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+29,Hip injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+32,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+32,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+24,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+20,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+28,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+20,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Groin Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+25,Calf Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+32,Groin Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+34,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+25,Hip injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+19,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Ankle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+17,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+20,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+18,Knock,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+33,Groin Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+23,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+26,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Hip injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Groin Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+36,Other,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+22,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+31,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+29,Muscle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+32,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+21,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+21,Other,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+19,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+23,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+32,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+20,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+25,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+21,Other,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+28,Achilles Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Thigh Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+33,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+25,Thigh Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+34,Muscle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+21,Ankle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+34,Foot Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+23,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+31,Muscle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+35,Calf Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+33,Muscle Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+33,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+35,Thigh Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+30,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+22,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+29,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+34,Ankle Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+35,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+28,Thigh Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+27,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+26,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+37,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+27,Thigh Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+28,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+30,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+32,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+33,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Thigh Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+31,Achilles Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+38,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+31,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+20,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+28,Ankle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Ankle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+37,Calf Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+33,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+35,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+23,Foot Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+21,Ankle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Foot Injury,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+34,Muscle Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+29,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+33,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+31,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+28,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+27,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Shoulder injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+25,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+36,Ankle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+29,Groin Injury,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+27,Shoulder injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Calf Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+21,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+27,Achilles Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+27,Achilles Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+36,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+38,Ankle Injury,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+30,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+31,Groin Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+31,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+32,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+26,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+32,Foot Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,Ankle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+28,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+22,Foot Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+30,Ankle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Ankle Injury,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+29,Groin Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Ankle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+35,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+34,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+33,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+31,Other,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Calf Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Long-term injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+31,Groin Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+28,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+32,Other,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+32,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+30,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Muscle Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+28,Thigh Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+20,Muscle Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+20,Ankle Injury,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+28,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+34,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+27,Muscle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+20,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+31,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+32,Calf Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+24,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+22,Other,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+22,Illness,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+22,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+28,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+28,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+31,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+21,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+30,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+28,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+32,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Ankle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+28,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+23,Hamstring Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+20,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+26,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+26,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+28,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+19,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+23,Ankle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+27,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+25,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+35,Calf Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+29,Hip injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+33,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+21,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+18,Other,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+24,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+29,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Groin Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Groin Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+27,Other,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+30,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+19,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+25,Other,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+26,Other,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+26,Calf Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+23,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+20,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+19,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+31,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+21,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+33,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+33,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+35,Calf Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+34,Thigh Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+21,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Thigh Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+30,Thigh Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+23,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+22,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+30,Groin Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Muscle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+21,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+30,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+30,Thigh Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+23,Thigh Injury,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+24,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+33,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Long-term injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+20,Shoulder injury,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+28,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,Minor injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+30,Thigh Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+23,Hamstring Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+23,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+32,Calf Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+27,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+27,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+26,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+34,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Ankle Injury,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+31,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+34,Other,False,False,False,True,False,False,False,False,False,False,False,False,False,True
+24,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+31,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+24,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+22,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+22,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+28,Thigh Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+31,General injury,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+24,General injury,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+31,General injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,General injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+28,Groin Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+33,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+34,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,General injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,General injury,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+24,Muscle Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+25,Knock,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Muscle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+35,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Foot Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+26,General injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+32,Muscle Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+25,Muscle Injury,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+29,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+26,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,General injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+27,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+28,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+28,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+27,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+34,Foot Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+28,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+29,Calf Injury,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+22,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+22,Calf Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+22,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+23,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+24,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+32,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+22,Muscle Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+35,Shoulder injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+28,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+37,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+38,Muscle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+21,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+23,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+27,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+26,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+25,Fitness issues,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+24,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+23,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+27,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+33,Muscle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+28,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+25,Foot Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+20,Other,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+33,Back injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+30,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+29,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+21,Foot Injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+24,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+19,Foot Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+29,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+22,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+22,Other,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+25,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+22,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+18,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+22,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+25,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Ankle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+19,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+23,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+23,Hip injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+35,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+27,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+22,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+21,Foot Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+28,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+20,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+30,Calf Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+29,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Ankle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+19,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+23,Other,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+27,Hamstring Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+19,Back injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Hamstring Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+18,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+23,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+26,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+23,Hamstring Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+22,Ankle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+36,Illness,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+25,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,Groin Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+28,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+20,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+27,Foot Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+20,Thigh Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+19,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+27,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+29,Groin Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Muscle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+20,Ankle Injury,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+23,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+27,Calf Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+23,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+24,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+20,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+21,Illness,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+24,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+26,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+20,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+27,Calf Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Ankle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+27,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,False,False,True,False
+20,Ankle Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+23,Hip injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+21,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+28,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+18,Thigh Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+25,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+34,Severe Knee Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+24,Minor injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+26,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+24,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+28,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Hip injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+21,Other,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+25,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+27,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+30,Other,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,Groin Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+29,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Ankle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+26,Groin Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+26,Calf Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+24,Foot Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+25,Other,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+33,Ankle Injury,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+21,Thigh Injury,False,False,False,False,False,False,False,True,False,False,False,True,False,False
+26,Other,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+32,Illness,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Other,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+23,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Achilles Injury,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+26,Hamstring Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+33,Achilles Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+19,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+29,Other,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+30,Thigh Injury,False,False,False,False,False,False,False,True,False,False,False,False,True,False
+21,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+32,Muscle Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+30,Achilles Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+37,Calf Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+25,Thigh Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+25,Muscle Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+30,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+28,Muscle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Ankle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Illness,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+31,Knock,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+27,Other,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+27,Thigh Injury,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+25,Ankle Injury,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+24,Ankle Injury,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+23,Ankle Injury,False,False,True,False,False,False,False,False,False,False,False,False,False,True
+29,Ankle Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+23,Ankle Injury,False,False,False,True,False,False,False,False,False,False,False,False,True,False
+28,Severe Knee Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+27,Hamstring Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+17,Ankle Injury,False,True,False,False,False,False,False,False,False,False,False,False,False,True
+26,Muscle Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+22,Other,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+22,Foot Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Thigh Injury,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+24,Ankle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+29,Calf Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+21,Muscle Injury,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+31,Long-term injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+26,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+24,Other,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+25,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Other,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+30,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+24,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+30,Thigh Injury,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+26,Severe Knee Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+27,Calf Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+23,Severe Knee Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+31,Thigh Injury,False,False,False,False,False,False,True,False,False,False,True,False,False,False
+30,Ankle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+29,Long-term injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+25,Hamstring Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+29,Muscle Injury,False,False,False,False,False,True,False,False,False,False,True,False,False,False
+26,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+31,Muscle Injury,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+27,Severe Knee Injury,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+26,Muscle Injury,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+24,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+21,Muscle Injury,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+25,Groin Injury,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+26,Other,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+31,Severe Knee Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+26,Muscle Injury,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+19,Other,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+23,Calf Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+27,Ankle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+20,Severe Knee Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+21,Muscle Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+27,Knock,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+37,Hamstring Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False
+29,Thigh Injury,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+25,Thigh Injury,False,False,True,False,False,False,False,False,False,False,True,False,False,False
+32,Other,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+37,Knock,False,False,False,False,False,False,False,True,False,False,True,False,False,False
+28,Severe Knee Injury,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+26,Muscle Injury,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+22,Hamstring Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+22,Ankle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+29,Severe Knee Injury,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+20,Muscle Injury,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+24,Ankle Injury,False,False,False,True,False,False,False,False,False,False,True,False,False,False

@@ -1,0 +1,740 @@
+POSITION,AGE,SEASON,INJURY_TYPE,INJURY_CATEGORY
+Central Midfield,26,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,27,Winter,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,20,Winter,Other,Minor/Other
+Centre-Back,24,Winter,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,22,Spring,Achilles Injury,Lower Limb Injury
+Central Midfield,20,Summer,Shoulder injury,Upper Body Injury
+Left Back,27,Summer,Hamstring Injury,Soft Tissue Injury
+Defensive Midfield,25,Summer,Back injury,Upper Body Injury
+Centre-Forward,32,Summer,Back injury,Upper Body Injury
+Right Back,26,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,23,Summer,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,23,Summer,Ankle Injury,Lower Limb Injury
+Left Winger,19,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,20,Summer,Foot Injury,Lower Limb Injury
+Centre-Forward,26,Summer,Ankle Injury,Lower Limb Injury
+Right Winger,21,Summer,Other,Minor/Other
+Defensive Midfield,23,Summer,Foot Injury,Lower Limb Injury
+Centre-Back,21,Summer,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Summer,Severe Knee Injury,Severe Knee Injury
+Left Winger,18,Summer,Back injury,Upper Body Injury
+Centre-Forward,23,Summer,Achilles Injury,Lower Limb Injury
+Left Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,31,Autumn,Achilles Injury,Lower Limb Injury
+Attacking Midfield,25,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,21,Autumn,Foot Injury,Lower Limb Injury
+Central Midfield,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,28,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,27,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,23,Autumn,Other,Minor/Other
+Centre-Forward,28,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,28,Autumn,Shoulder injury,Upper Body Injury
+Centre-Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,34,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,20,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,32,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,26,Autumn,Foot Injury,Lower Limb Injury
+Central Midfield,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,22,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Winger,19,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,27,Autumn,Achilles Injury,Lower Limb Injury
+Centre-Back,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,25,Autumn,Other,Minor/Other
+Left Winger,17,Autumn,Illness,Minor/Other
+Right Back,30,Autumn,Other,Minor/Other
+Centre-Back,29,Autumn,Groin Injury,Soft Tissue Injury
+Defensive Midfield,24,Summer,Groin Injury,Soft Tissue Injury
+Attacking Midfield,25,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Back,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,30,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,22,Summer,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,23,Autumn,Groin Injury,Soft Tissue Injury
+Attacking Midfield,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,25,Autumn,Calf Injury,Soft Tissue Injury
+Attacking Midfield,22,Autumn,Groin Injury,Soft Tissue Injury
+Right Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,22,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Back,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Back,31,Summer,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Winter,Ankle Injury,Lower Limb Injury
+Central Midfield,29,Autumn,Calf Injury,Soft Tissue Injury
+Left Back,30,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,27,Summer,Illness,Minor/Other
+Left Winger,24,Summer,Hamstring Injury,Soft Tissue Injury
+Central Midfield,19,Summer,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,24,Summer,Back injury,Upper Body Injury
+Right Winger,22,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,23,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Summer,Other,Minor/Other
+Left Winger,22,Autumn,Groin Injury,Soft Tissue Injury
+Left Back,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,21,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,27,Autumn,Minor injury,Minor/Other
+Right Winger,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,23,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,28,Autumn,Fitness issues,Minor/Other
+Right Back,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,26,Autumn,Ankle Injury,Lower Limb Injury
+Right Winger,21,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,24,Summer,Severe Knee Injury,Severe Knee Injury
+Right Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,23,Summer,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,22,Summer,Long-term injury,Minor/Other
+Centre-Forward,23,Summer,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,25,Summer,Minor injury,Minor/Other
+Right Winger,29,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,26,Autumn,Minor injury,Minor/Other
+Right Back,23,Summer,Hamstring Injury,Soft Tissue Injury
+Left Back,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,26,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,22,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Autumn,Thigh Injury,Soft Tissue Injury
+Left Winger,22,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,25,Autumn,Illness,Minor/Other
+Right Winger,21,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,22,Summer,Severe Knee Injury,Severe Knee Injury
+Central Midfield,20,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,23,Summer,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Autumn,Achilles Injury,Lower Limb Injury
+Left Back,23,Autumn,Hip injury,Minor/Other
+Attacking Midfield,25,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,27,Autumn,Ankle Injury,Lower Limb Injury
+Goalkeeper,27,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,21,Summer,Thigh Injury,Soft Tissue Injury
+Centre-Back,23,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,21,Summer,Severe Knee Injury,Severe Knee Injury
+Right Back,34,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,21,Summer,Groin Injury,Soft Tissue Injury
+Right Back,22,Spring,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,20,Summer,Foot Injury,Lower Limb Injury
+Centre-Forward,22,Summer,Foot Injury,Lower Limb Injury
+Right Winger,20,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,33,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,18,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,22,Autumn,Other,Minor/Other
+Right Winger,31,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,23,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,31,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Winger,23,Autumn,Long-term injury,Minor/Other
+Defensive Midfield,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,23,Winter,Other,Minor/Other
+Attacking Midfield,32,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,28,Spring,Illness,Minor/Other
+Centre-Back,29,Spring,Muscle Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,31,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,29,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,28,Summer,Hamstring Injury,Soft Tissue Injury
+Right Winger,28,Autumn,Shoulder injury,Upper Body Injury
+Left Back,31,Autumn,Back injury,Upper Body Injury
+Centre-Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,25,Autumn,Groin Injury,Soft Tissue Injury
+Right Back,29,Autumn,Groin Injury,Soft Tissue Injury
+Left Winger,26,Autumn,Foot Injury,Lower Limb Injury
+Central Midfield,21,Winter,Back injury,Upper Body Injury
+Left Back,25,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,32,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,27,Autumn,Fitness issues,Minor/Other
+Central Midfield,32,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,25,Autumn,Fitness issues,Minor/Other
+Centre-Back,31,Autumn,Calf Injury,Soft Tissue Injury
+Central Midfield,25,Summer,Hamstring Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Fitness issues,Minor/Other
+Centre-Forward,26,Summer,Calf Injury,Soft Tissue Injury
+Left Winger,19,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Winger,34,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,23,Spring,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,27,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,22,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Winger,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,30,Winter,Groin Injury,Soft Tissue Injury
+Right Winger,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,33,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,23,Autumn,Back injury,Upper Body Injury
+Left Back,33,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,22,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Winger,20,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,26,Spring,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,28,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,30,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,27,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,25,Spring,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Summer,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,27,Summer,Other,Minor/Other
+Centre-Back,28,Summer,Achilles Injury,Lower Limb Injury
+Defensive Midfield,17,Summer,Severe Knee Injury,Severe Knee Injury
+Left Back,32,Autumn,Other,Minor/Other
+Right Back,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,32,Autumn,Other,Minor/Other
+Central Midfield,26,Autumn,Ankle Injury,Lower Limb Injury
+Defensive Midfield,32,Autumn,Other,Minor/Other
+Goalkeeper,32,Autumn,Other,Minor/Other
+Central Midfield,29,Autumn,Hip injury,Minor/Other
+Centre-Forward,27,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,32,Autumn,Ankle Injury,Lower Limb Injury
+Right Back,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Winger,24,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,20,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,28,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,20,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,29,Autumn,Groin Injury,Soft Tissue Injury
+Centre-Forward,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,23,Autumn,Other,Minor/Other
+Left Winger,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,25,Autumn,Calf Injury,Soft Tissue Injury
+Goalkeeper,32,Autumn,Groin Injury,Soft Tissue Injury
+Goalkeeper,34,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,29,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,25,Autumn,Hip injury,Minor/Other
+Left Winger,27,Autumn,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,19,Autumn,Other,Minor/Other
+Defensive Midfield,24,Autumn,Ankle Injury,Lower Limb Injury
+Right Winger,17,Autumn,Ankle Injury,Lower Limb Injury
+Right Winger,20,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,18,Autumn,Knock,Minor/Other
+Right Back,33,Autumn,Groin Injury,Soft Tissue Injury
+Right Winger,23,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,22,Autumn,Hip injury,Minor/Other
+Defensive Midfield,29,Autumn,Groin Injury,Soft Tissue Injury
+Centre-Forward,36,Autumn,Other,Minor/Other
+Left Back,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,29,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,22,Autumn,Muscle Injury,Soft Tissue Injury
+Goalkeeper,31,Summer,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,29,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,26,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,32,Winter,Severe Knee Injury,Severe Knee Injury
+Central Midfield,21,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,21,Autumn,Other,Minor/Other
+Defensive Midfield,24,Autumn,Other,Minor/Other
+Attacking Midfield,19,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,20,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,27,Spring,Ankle Injury,Lower Limb Injury
+Centre-Back,25,Summer,Hamstring Injury,Soft Tissue Injury
+Left Winger,21,Summer,Other,Minor/Other
+Centre-Back,28,Autumn,Achilles Injury,Lower Limb Injury
+Centre-Back,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,21,Summer,Thigh Injury,Soft Tissue Injury
+Central Midfield,33,Summer,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Summer,Thigh Injury,Soft Tissue Injury
+Defensive Midfield,34,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,21,Autumn,Ankle Injury,Lower Limb Injury
+Left Back,34,Autumn,Foot Injury,Lower Limb Injury
+Centre-Back,23,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,30,Winter,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,31,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,35,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,33,Summer,Muscle Injury,Soft Tissue Injury
+Centre-Forward,33,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,35,Autumn,Thigh Injury,Soft Tissue Injury
+Left Winger,29,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,30,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,27,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,24,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,22,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,29,Autumn,Other,Minor/Other
+Centre-Back,29,Autumn,Hamstring Injury,Soft Tissue Injury
+Defensive Midfield,34,Summer,Ankle Injury,Lower Limb Injury
+Right Back,35,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,28,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,26,Autumn,Other,Minor/Other
+Centre-Forward,27,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,26,Autumn,Ankle Injury,Lower Limb Injury
+Left Back,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Thigh Injury,Soft Tissue Injury
+Attacking Midfield,37,Summer,Severe Knee Injury,Severe Knee Injury
+Right Back,27,Summer,Thigh Injury,Soft Tissue Injury
+Centre-Forward,28,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,30,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,32,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,33,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,27,Autumn,Thigh Injury,Soft Tissue Injury
+Central Midfield,31,Autumn,Achilles Injury,Lower Limb Injury
+Central Midfield,27,Autumn,Ankle Injury,Lower Limb Injury
+Attacking Midfield,31,Autumn,Other,Minor/Other
+Right Back,29,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,30,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,31,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,38,Autumn,Other,Minor/Other
+Right Back,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,31,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,29,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,20,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,28,Autumn,Ankle Injury,Lower Limb Injury
+Right Back,25,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,26,Summer,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,37,Autumn,Calf Injury,Soft Tissue Injury
+Central Midfield,23,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,33,Autumn,Ankle Injury,Lower Limb Injury
+Left Back,30,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,35,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,23,Autumn,Foot Injury,Lower Limb Injury
+Centre-Forward,21,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,23,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,31,Spring,Foot Injury,Lower Limb Injury
+Centre-Back,34,Spring,Muscle Injury,Soft Tissue Injury
+Central Midfield,29,Spring,Muscle Injury,Soft Tissue Injury
+Right Back,33,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,31,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,30,Winter,Hamstring Injury,Soft Tissue Injury
+Central Midfield,28,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,31,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,27,Spring,Muscle Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,24,Spring,Shoulder injury,Upper Body Injury
+Centre-Back,25,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,36,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,29,Winter,Groin Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Shoulder injury,Upper Body Injury
+Defensive Midfield,28,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,21,Winter,Hamstring Injury,Soft Tissue Injury
+Centre-Back,27,Spring,Achilles Injury,Lower Limb Injury
+Centre-Back,27,Spring,Achilles Injury,Lower Limb Injury
+Defensive Midfield,36,Spring,Severe Knee Injury,Severe Knee Injury
+Right Back,38,Winter,Ankle Injury,Lower Limb Injury
+Attacking Midfield,30,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,31,Autumn,Groin Injury,Soft Tissue Injury
+Left Back,31,Spring,Severe Knee Injury,Severe Knee Injury
+Left Winger,32,Spring,Hamstring Injury,Soft Tissue Injury
+Right Back,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,29,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,32,Autumn,Foot Injury,Lower Limb Injury
+Left Back,29,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,28,Autumn,Other,Minor/Other
+Centre-Back,22,Autumn,Foot Injury,Lower Limb Injury
+Centre-Forward,28,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,30,Autumn,Ankle Injury,Lower Limb Injury
+Right Back,30,Spring,Ankle Injury,Lower Limb Injury
+Centre-Forward,29,Autumn,Groin Injury,Soft Tissue Injury
+Left Back,24,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,35,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,34,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,33,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,31,Autumn,Other,Minor/Other
+Centre-Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Calf Injury,Soft Tissue Injury
+Left Winger,25,Autumn,Long-term injury,Minor/Other
+Right Winger,31,Autumn,Groin Injury,Soft Tissue Injury
+Right Winger,28,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,32,Autumn,Other,Minor/Other
+Central Midfield,32,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,30,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,21,Summer,Muscle Injury,Soft Tissue Injury
+Left Winger,28,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Other,Minor/Other
+Right Back,22,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,20,Summer,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,20,Winter,Ankle Injury,Lower Limb Injury
+Goalkeeper,28,Autumn,Other,Minor/Other
+Goalkeeper,34,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,27,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,20,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,31,Autumn,Other,Minor/Other
+Centre-Back,31,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,30,Winter,Severe Knee Injury,Severe Knee Injury
+Right Winger,32,Autumn,Calf Injury,Soft Tissue Injury
+Right Winger,24,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,22,Summer,Other,Minor/Other
+Left Winger,22,Autumn,Illness,Minor/Other
+Attacking Midfield,22,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,28,Autumn,Calf Injury,Soft Tissue Injury
+Right Back,28,Spring,Severe Knee Injury,Severe Knee Injury
+Centre-Back,31,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,25,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,21,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,30,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,24,Summer,Other,Minor/Other
+Attacking Midfield,28,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,29,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,32,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,29,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,28,Autumn,Other,Minor/Other
+Attacking Midfield,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,20,Spring,Severe Knee Injury,Severe Knee Injury
+Right Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,28,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Winger,19,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,23,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,27,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,27,Summer,Ankle Injury,Lower Limb Injury
+Right Winger,25,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,35,Summer,Calf Injury,Soft Tissue Injury
+Goalkeeper,29,Autumn,Hip injury,Minor/Other
+Right Winger,33,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,21,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,18,Autumn,Other,Minor/Other
+Centre-Forward,24,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,23,Autumn,Other,Minor/Other
+Centre-Back,29,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,27,Autumn,Groin Injury,Soft Tissue Injury
+Defensive Midfield,24,Autumn,Groin Injury,Soft Tissue Injury
+Central Midfield,27,Autumn,Other,Minor/Other
+Centre-Forward,30,Spring,Severe Knee Injury,Severe Knee Injury
+Right Winger,19,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,25,Summer,Other,Minor/Other
+Centre-Back,24,Summer,Severe Knee Injury,Severe Knee Injury
+Left Back,26,Autumn,Other,Minor/Other
+Defensive Midfield,26,Autumn,Calf Injury,Soft Tissue Injury
+Central Midfield,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Forward,25,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,23,Summer,Severe Knee Injury,Severe Knee Injury
+Central Midfield,20,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,19,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,31,Autumn,Other,Minor/Other
+Centre-Back,21,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,22,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Back,33,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,33,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,35,Autumn,Calf Injury,Soft Tissue Injury
+Central Midfield,30,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,34,Autumn,Thigh Injury,Soft Tissue Injury
+Left Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,21,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,24,Autumn,Thigh Injury,Soft Tissue Injury
+Right Back,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,26,Summer,Severe Knee Injury,Severe Knee Injury
+Central Midfield,30,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,23,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,22,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,30,Autumn,Groin Injury,Soft Tissue Injury
+Centre-Forward,22,Summer,Muscle Injury,Soft Tissue Injury
+Left Back,21,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,30,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,26,Summer,Severe Knee Injury,Severe Knee Injury
+Right Back,30,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,23,Winter,Thigh Injury,Soft Tissue Injury
+Central Midfield,24,Spring,Severe Knee Injury,Severe Knee Injury
+Centre-Back,33,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,21,Autumn,Long-term injury,Minor/Other
+Goalkeeper,20,Summer,Shoulder injury,Upper Body Injury
+Central Midfield,28,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,26,Autumn,Minor injury,Minor/Other
+Left Back,30,Autumn,Thigh Injury,Soft Tissue Injury
+Attacking Midfield,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,23,Autumn,Thigh Injury,Soft Tissue Injury
+Right Back,32,Summer,Calf Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,31,Autumn,Other,Minor/Other
+Left Winger,31,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,27,Summer,Muscle Injury,Soft Tissue Injury
+Right Back,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,34,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,28,Winter,Ankle Injury,Lower Limb Injury
+Left Winger,31,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,34,Winter,Other,Minor/Other
+Right Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,26,Summer,Severe Knee Injury,Severe Knee Injury
+Left Back,31,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,25,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,31,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Back,22,Autumn,Other,Minor/Other
+Central Midfield,22,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,28,Autumn,Thigh Injury,Soft Tissue Injury
+Central Midfield,24,Winter,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,31,Spring,General injury,Minor/Other
+Attacking Midfield,24,Winter,General injury,Minor/Other
+Centre-Back,31,Autumn,General injury,Minor/Other
+Goalkeeper,29,Autumn,General injury,Minor/Other
+Centre-Forward,25,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,28,Autumn,Groin Injury,Soft Tissue Injury
+Left Back,33,Spring,Severe Knee Injury,Severe Knee Injury
+Central Midfield,34,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,28,Autumn,General injury,Minor/Other
+Right Winger,27,Winter,General injury,Minor/Other
+Left Back,24,Summer,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Knock,Minor/Other
+Defensive Midfield,28,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,35,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,30,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,24,Winter,Foot Injury,Lower Limb Injury
+Central Midfield,26,Autumn,General injury,Minor/Other
+Centre-Forward,24,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,32,Winter,Muscle Injury,Soft Tissue Injury
+Left Back,25,Winter,Muscle Injury,Soft Tissue Injury
+Centre-Back,29,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Winger,23,Autumn,General injury,Minor/Other
+Centre-Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,28,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,23,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,28,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,26,Winter,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,34,Summer,Foot Injury,Lower Limb Injury
+Central Midfield,28,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,26,Spring,Muscle Injury,Soft Tissue Injury
+Centre-Back,29,Spring,Calf Injury,Soft Tissue Injury
+Central Midfield,22,Summer,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,22,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,22,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Forward,21,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,24,Summer,Muscle Injury,Soft Tissue Injury
+Centre-Back,23,Summer,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,32,Autumn,Thigh Injury,Soft Tissue Injury
+Right Back,24,Autumn,Other,Minor/Other
+Central Midfield,22,Summer,Muscle Injury,Soft Tissue Injury
+Goalkeeper,35,Autumn,Shoulder injury,Upper Body Injury
+Left Winger,25,Spring,Severe Knee Injury,Severe Knee Injury
+Centre-Back,28,Autumn,Ankle Injury,Lower Limb Injury
+Right Winger,37,Autumn,Muscle Injury,Soft Tissue Injury
+Goalkeeper,38,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,21,Winter,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Spring,Severe Knee Injury,Severe Knee Injury
+Central Midfield,27,Spring,Severe Knee Injury,Severe Knee Injury
+Left Back,26,Spring,Severe Knee Injury,Severe Knee Injury
+Centre-Back,24,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Summer,Fitness issues,Minor/Other
+Central Midfield,24,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,23,Summer,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,27,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,33,Summer,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,28,Summer,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Summer,Foot Injury,Lower Limb Injury
+Goalkeeper,20,Summer,Other,Minor/Other
+Centre-Back,33,Summer,Back injury,Upper Body Injury
+Centre-Forward,30,Summer,Severe Knee Injury,Severe Knee Injury
+Left Back,29,Summer,Severe Knee Injury,Severe Knee Injury
+Left Winger,21,Summer,Foot Injury,Lower Limb Injury
+Right Back,24,Summer,Severe Knee Injury,Severe Knee Injury
+Central Midfield,19,Summer,Foot Injury,Lower Limb Injury
+Central Midfield,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,22,Autumn,Groin Injury,Soft Tissue Injury
+Attacking Midfield,22,Autumn,Other,Minor/Other
+Right Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Autumn,Other,Minor/Other
+Goalkeeper,29,Autumn,Other,Minor/Other
+Left Winger,22,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,26,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,18,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Winger,22,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,25,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,24,Autumn,Other,Minor/Other
+Left Back,26,Autumn,Ankle Injury,Lower Limb Injury
+Right Winger,19,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,23,Autumn,Other,Minor/Other
+Centre-Forward,23,Autumn,Hip injury,Minor/Other
+Goalkeeper,35,Autumn,Other,Minor/Other
+Attacking Midfield,27,Autumn,Groin Injury,Soft Tissue Injury
+Central Midfield,22,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,21,Autumn,Foot Injury,Lower Limb Injury
+Centre-Back,28,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Other,Minor/Other
+Right Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,20,Autumn,Other,Minor/Other
+Left Back,30,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Ankle Injury,Lower Limb Injury
+Left Winger,24,Autumn,Other,Minor/Other
+Attacking Midfield,21,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,19,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,28,Autumn,Thigh Injury,Soft Tissue Injury
+Right Winger,23,Autumn,Other,Minor/Other
+Right Back,27,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,30,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,25,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,19,Autumn,Back injury,Upper Body Injury
+Left Winger,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,21,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,18,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,23,Autumn,Hamstring Injury,Soft Tissue Injury
+Defensive Midfield,22,Autumn,Ankle Injury,Lower Limb Injury
+Right Back,24,Autumn,Muscle Injury,Soft Tissue Injury
+Goalkeeper,36,Autumn,Illness,Minor/Other
+Defensive Midfield,25,Autumn,Other,Minor/Other
+Centre-Back,25,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,29,Autumn,Groin Injury,Soft Tissue Injury
+Centre-Forward,28,Autumn,Hamstring Injury,Soft Tissue Injury
+Left Back,20,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,27,Autumn,Foot Injury,Lower Limb Injury
+Centre-Back,26,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,20,Autumn,Thigh Injury,Soft Tissue Injury
+Left Winger,19,Autumn,Ankle Injury,Lower Limb Injury
+Right Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,29,Autumn,Groin Injury,Soft Tissue Injury
+Defensive Midfield,23,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,20,Spring,Ankle Injury,Lower Limb Injury
+Right Back,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,27,Summer,Calf Injury,Soft Tissue Injury
+Left Winger,23,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,24,Summer,Severe Knee Injury,Severe Knee Injury
+Left Winger,20,Autumn,Other,Minor/Other
+Centre-Back,21,Autumn,Illness,Minor/Other
+Centre-Back,24,Autumn,Other,Minor/Other
+Left Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Right Winger,20,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Back,27,Autumn,Calf Injury,Soft Tissue Injury
+Left Back,26,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,27,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,21,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,28,Summer,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,20,Summer,Ankle Injury,Lower Limb Injury
+Central Midfield,23,Autumn,Hip injury,Minor/Other
+Right Winger,21,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,28,Autumn,Ankle Injury,Lower Limb Injury
+Attacking Midfield,21,Autumn,Groin Injury,Soft Tissue Injury
+Left Winger,18,Autumn,Thigh Injury,Soft Tissue Injury
+Central Midfield,29,Autumn,Calf Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Hamstring Injury,Soft Tissue Injury
+Attacking Midfield,31,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Ankle Injury,Lower Limb Injury
+Goalkeeper,34,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,24,Autumn,Minor injury,Minor/Other
+Central Midfield,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Winger,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,28,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,29,Autumn,Hip injury,Minor/Other
+Left Back,21,Autumn,Other,Minor/Other
+Central Midfield,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Defensive Midfield,23,Spring,Severe Knee Injury,Severe Knee Injury
+Right Back,25,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,27,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,30,Autumn,Other,Minor/Other
+Centre-Back,25,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,29,Autumn,Groin Injury,Soft Tissue Injury
+Central Midfield,29,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,31,Autumn,Ankle Injury,Lower Limb Injury
+Attacking Midfield,26,Autumn,Groin Injury,Soft Tissue Injury
+Left Back,26,Autumn,Calf Injury,Soft Tissue Injury
+Left Winger,25,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,24,Autumn,Foot Injury,Lower Limb Injury
+Centre-Back,25,Autumn,Other,Minor/Other
+Left Back,33,Spring,Ankle Injury,Lower Limb Injury
+Left Winger,21,Spring,Thigh Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Other,Minor/Other
+Centre-Back,27,Autumn,Thigh Injury,Soft Tissue Injury
+Centre-Back,32,Autumn,Illness,Minor/Other
+Centre-Forward,31,Autumn,Other,Minor/Other
+Central Midfield,23,Autumn,Calf Injury,Soft Tissue Injury
+Attacking Midfield,29,Summer,Achilles Injury,Lower Limb Injury
+Centre-Back,26,Autumn,Hamstring Injury,Soft Tissue Injury
+Right Back,31,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,33,Autumn,Achilles Injury,Lower Limb Injury
+Centre-Forward,27,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,19,Autumn,Severe Knee Injury,Severe Knee Injury
+Goalkeeper,29,Autumn,Other,Minor/Other
+Attacking Midfield,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Winger,30,Summer,Thigh Injury,Soft Tissue Injury
+Left Back,21,Autumn,Muscle Injury,Soft Tissue Injury
+Goalkeeper,29,Autumn,Muscle Injury,Soft Tissue Injury
+Left Winger,29,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,27,Autumn,Ankle Injury,Lower Limb Injury
+Left Back,32,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,30,Autumn,Achilles Injury,Lower Limb Injury
+Goalkeeper,37,Autumn,Calf Injury,Soft Tissue Injury
+Left Back,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,25,Autumn,Thigh Injury,Soft Tissue Injury
+Right Back,25,Autumn,Muscle Injury,Soft Tissue Injury
+Left Back,30,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Forward,28,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,27,Autumn,Illness,Minor/Other
+Attacking Midfield,31,Autumn,Knock,Minor/Other
+Centre-Back,23,Summer,Severe Knee Injury,Severe Knee Injury
+Central Midfield,27,Winter,Other,Minor/Other
+Right Back,27,Spring,Thigh Injury,Soft Tissue Injury
+Right Winger,25,Spring,Ankle Injury,Lower Limb Injury
+Central Midfield,24,Spring,Ankle Injury,Lower Limb Injury
+Centre-Back,23,Winter,Ankle Injury,Lower Limb Injury
+Centre-Back,29,Summer,Ankle Injury,Lower Limb Injury
+Centre-Forward,23,Summer,Ankle Injury,Lower Limb Injury
+Left Back,28,Autumn,Severe Knee Injury,Severe Knee Injury
+Right Winger,27,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,17,Winter,Ankle Injury,Lower Limb Injury
+Defensive Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,22,Autumn,Other,Minor/Other
+Central Midfield,22,Autumn,Foot Injury,Lower Limb Injury
+Right Winger,25,Summer,Thigh Injury,Soft Tissue Injury
+Goalkeeper,24,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Back,29,Summer,Calf Injury,Soft Tissue Injury
+Right Back,21,Summer,Muscle Injury,Soft Tissue Injury
+Centre-Back,31,Summer,Long-term injury,Minor/Other
+Defensive Midfield,26,Summer,Severe Knee Injury,Severe Knee Injury
+Left Winger,24,Autumn,Other,Minor/Other
+Central Midfield,25,Autumn,Hamstring Injury,Soft Tissue Injury
+Defensive Midfield,27,Autumn,Other,Minor/Other
+Central Midfield,30,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,25,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,24,Autumn,Muscle Injury,Soft Tissue Injury
+Right Back,30,Autumn,Thigh Injury,Soft Tissue Injury
+Central Midfield,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,27,Autumn,Calf Injury,Soft Tissue Injury
+Defensive Midfield,24,Autumn,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,23,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,26,Autumn,Severe Knee Injury,Severe Knee Injury
+Left Back,31,Autumn,Thigh Injury,Soft Tissue Injury
+Left Winger,30,Autumn,Ankle Injury,Lower Limb Injury
+Central Midfield,29,Autumn,Long-term injury,Minor/Other
+Defensive Midfield,25,Autumn,Hamstring Injury,Soft Tissue Injury
+Goalkeeper,29,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,26,Summer,Severe Knee Injury,Severe Knee Injury
+Right Winger,31,Winter,Muscle Injury,Soft Tissue Injury
+Left Winger,27,Winter,Severe Knee Injury,Severe Knee Injury
+Attacking Midfield,26,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Back,24,Autumn,Thigh Injury,Soft Tissue Injury
+Left Winger,21,Autumn,Muscle Injury,Soft Tissue Injury
+Attacking Midfield,25,Winter,Groin Injury,Soft Tissue Injury
+Central Midfield,26,Spring,Other,Minor/Other
+Centre-Back,31,Summer,Severe Knee Injury,Severe Knee Injury
+Left Back,26,Summer,Muscle Injury,Soft Tissue Injury
+Right Winger,19,Summer,Other,Minor/Other
+Defensive Midfield,23,Autumn,Calf Injury,Soft Tissue Injury
+Right Winger,27,Autumn,Ankle Injury,Lower Limb Injury
+Centre-Forward,20,Autumn,Severe Knee Injury,Severe Knee Injury
+Centre-Back,21,Autumn,Muscle Injury,Soft Tissue Injury
+Defensive Midfield,27,Autumn,Knock,Minor/Other
+Centre-Forward,37,Autumn,Hamstring Injury,Soft Tissue Injury
+Centre-Back,29,Summer,Thigh Injury,Soft Tissue Injury
+Centre-Back,25,Autumn,Thigh Injury,Soft Tissue Injury
+Attacking Midfield,32,Summer,Other,Minor/Other
+Left Winger,37,Autumn,Knock,Minor/Other
+Right Back,28,Winter,Severe Knee Injury,Severe Knee Injury
+Right Winger,26,Autumn,Muscle Injury,Soft Tissue Injury
+Central Midfield,22,Autumn,Hamstring Injury,Soft Tissue Injury
+Central Midfield,22,Autumn,Ankle Injury,Lower Limb Injury
+Defensive Midfield,29,Autumn,Severe Knee Injury,Severe Knee Injury
+Central Midfield,20,Autumn,Muscle Injury,Soft Tissue Injury
+Centre-Forward,24,Autumn,Ankle Injury,Lower Limb Injury
